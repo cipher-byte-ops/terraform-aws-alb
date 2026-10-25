@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/Olensys/terraform-aws-alb/compare/v1.0.3...v1.0.4) (2026-10-25)
+
+
+### Bug Fixes
+
+* **examples:** provision the listener certificate and validate through Cloudflare ([#4](https://github.com/Olensys/terraform-aws-alb/issues/4)) ([61d7e7d](https://github.com/Olensys/terraform-aws-alb/commit/61d7e7daa34cd6dd77e920ec960ac929452f7d96))
+
 ## [1.0.3](https://github.com/Olensys/terraform-aws-alb/compare/v1.0.2...v1.0.3) (2026-10-24)
 
 
